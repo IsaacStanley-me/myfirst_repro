@@ -1,0 +1,13 @@
+    1  echo app.css
+    2  echo 'Hello Nigeria' > app.css
+    3  cd cssFolder/
+    4  echo 'Hello Nigeria' > app.css
+    5  echo 'Hello Nigeria' >>  app.css
+    6  cls
+    7  cl
+    8  cler
+    9  clear
+   10  pwd
+   11  whoami
+   12  history
+   13  history > hello.txt
